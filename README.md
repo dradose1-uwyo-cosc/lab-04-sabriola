@@ -1,12 +1,5 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
-## Project Quirks/ Things that don't work
-* example
-* example
-* example
+#Serina Abriola
+##Lab 04
+##Submission date: 10/6/24
+##Worked with/sources 
+* Lecture 7
